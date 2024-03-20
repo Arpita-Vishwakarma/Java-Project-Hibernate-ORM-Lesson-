@@ -30,7 +30,7 @@
       <li>Navigate to the <strong>lesson/Day_01</strong> branch to review the source code.</li>
       <li>Alternatively, clone the repository specifically from the <strong>lesson/Day_01</strong> branch using the following command:</li>
     </ul>
-    <pre><code>git clone -b lesson/Day_01 --single-branch https://github.com/gayanukabulegoda/Hibernate-ORM-Lesson.git</code></pre>
+    <pre><code>git clone -b lesson/Day_01 --single-branch https://github.com/Arpita-Vishwakarma/Hibernate-ORM-Lesson.git</code></pre>
   </li>
 </ul>
 
